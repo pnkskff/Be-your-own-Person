@@ -1,9 +1,32 @@
-# Be-your-own-Person
+# Be your own Person
+
+I. INTRO:
 
 BYOP Site: https://byop.netlify.app/
 
-This is a Character Prompt App, for when a Writer is experiencing a Block when generating a fictional character.
+This is an App to generate a Face, Name, and a Quote.
 
-In future versions, I want to have access to a Deepfake Face API.
+Idea is to generate a Personality off the 3 Facets, so that a Creative can build a Fictional Character.
 
-Built with HTML/CSS/JS/API - Nothing too fancy!
+II. NOTES:
+
+  1. Built with HTML/CSS/JS/API.
+  2. BYOP API's:
+
+     a. Face - https://dog.ceo/api/breeds/image/random
+     
+     b. Name - https://random-data-api.com/api/users/random_user
+     
+     c. Quote - https://goquotes-api.herokuapp.com/api/v1/random?count=1
+
+III. OPTIMIZATION:
+
+  1. Access to a free Deepfake Face API.
+  2. Pull in other Info from Name API, to include other fictional pieces of info for the fictional Character such as;
+  
+    a. Birth Date
+    
+    b. Email Address
+    
+    c. Phone Number
+
