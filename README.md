@@ -22,11 +22,15 @@ II. NOTES:
 III. OPTIMIZATION:
 
   1. Access to a free Deepfake Face API.
-  2. Pull in other Info from Name API, to include other fictional pieces of info for the fictional Character such as;
-  
-    a. Birth Date
-    
-    b. Email Address
-    
-    c. Phone Number
+  2. Pull in other Info from Name API, to include other fictional pieces of info for the fictional Character such as:
+
+     a. Birth Date
+
+     b. Email Address
+
+     c. Phone Number
+  3. Add a Form so User can create Credentials.
+  4. Add a Free-Form Text Box that acts as a Note Function so that User can build a Backstory.
+  5. Save functionality so that User can Save a 'Person'
+  6. Link with Server to keep and serve User and Character info.
 
